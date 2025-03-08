@@ -1,5 +1,4 @@
 
-
 /*
 My design supports adding, removing, moving, and reversing songs while maintaining proper pointer updates.
 In doubly linked list class playNext() and playPrevious() methods plays current song (which is the first song in the beginning)
